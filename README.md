@@ -1,2 +1,2 @@
 # Prototype-Texture
-Godot addon, thats adds tilable material, with same texel density across models.
+Godot add-on, that adds tillable material, with same texel density across models.
